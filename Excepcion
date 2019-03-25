@@ -1,0 +1,8 @@
+package es.unileon.prg;
+import java.io.*;
+
+public class Excepcion extends Excepcion{
+	public Excepcion(String message){
+		super(message);
+	}
+}
